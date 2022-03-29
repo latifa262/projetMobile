@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">projetWeb</string>
+
+    <string name="nom">Nom : </string>
+    <string name="prenom">Prenom : </string>
+
+    <array name="villes">
+        <item>Marrakech</item>
+        <item>Rabat</item>
+        <item>Oujda</item>
+        <item>Essaouira</item>
+    </array>
+</resources>
